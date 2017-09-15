@@ -21,3 +21,5 @@ pkg/
 .idea/
 /.idea/
 /go_learn.iml
+goroute
+
