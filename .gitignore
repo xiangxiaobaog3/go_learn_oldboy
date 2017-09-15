@@ -16,10 +16,7 @@
 .glide/
 
 .gitignore
-.idea/inspectionProfiles/
-.idea/misc.xml
-.idea/modules.xml
-.idea/workspace.xml
 bin/
 pkg/
 .idea/
+/.idea/
